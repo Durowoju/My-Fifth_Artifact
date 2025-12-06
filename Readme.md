@@ -9,6 +9,12 @@
 This artifact presents an analytical study of a machine learning (ML) system designed to forecast chronic kidney disease (CKD) using explainable AI techniques. The work is based on the research of Kumar and Kumar (2024), who developed an end-to-end ML pipeline that integrates preprocessing, model development, validation, and interpretability. This artifact was selected because it demonstrates a full ML lifecycle grounded in both technical rigor and responsible-AI principles.
 
 ---
+## Workflow Diagram
+
+<p align="center">
+  <img src="./ckd-workflow-diagram.png" alt="CKD Forecasting Workflow Diagram" width="650">
+</p>
+---
 
 ## **DESCRIPTION**
 The artifact explores how a structured medical dataset was cleaned, balanced, and modeled to predict CKD outcomes. It includes an evaluation of the authors' preprocessing steps, model comparisons, hyperparameter tuning, and the ethical safeguards used to ensure clinical interpretability. It further analyzes alignment between the authors' approach and best practices taught in the course.
