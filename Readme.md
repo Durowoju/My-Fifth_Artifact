@@ -93,6 +93,12 @@ This artifact is relevant to:
 It demonstrates a comprehensive understanding of how ML systems should be built and monitored in real-world environments.
 
 ---
+## **REFLECTION**
+Working on this artifact deepened my appreciation for how every design choice in a machine learning pipeline—data cleaning, class balancing, model selection, and metric choice—directly affects real people when the system is deployed in healthcare. Analyzing the CKD forecasting project helped me see the strengths of a well-structured pipeline that uses SMOTE, cross-validation, and explainable AI, but it also exposed important gaps in fairness analysis, stakeholder engagement, and governance documentation.
+
+This reflection has reshaped how I plan to approach future ML projects. I now see model performance and responsible AI as inseparable goals. In my own work, I intend to incorporate tools like datasheets for datasets and model cards, perform subgroup error analysis, and involve domain experts early in the design process. Overall, this artifact strengthened my ability to critically evaluate published ML systems and reinforced my responsibility as an emerging AI practitioner to build models that are not only accurate but also transparent, fair, and trustworthy.
+
+---
 
 ## **REFERENCES**
 
