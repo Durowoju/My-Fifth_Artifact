@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ckd-forecasting-banner.png" 
+       alt="Machine Learning CKD Forecasting Banner" width="900">
+</p>
+
 # **Machine Learning–Based Forecasting of Chronic Kidney Disease Using Explainable AI**
 
 ## **INTRODUCTION**
